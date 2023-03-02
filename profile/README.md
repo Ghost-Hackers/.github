@@ -1,4 +1,4 @@
-<picture align="center"><img src="/profile/40624.jpg" /></picture>
+<picture align="center"><img src="/profile/40624.jpg" style="max-width: 100%;" C/></picture>
 
 <img src="https://img.shields.io/badge/repos-5-blue?style=plastic" /> <img src="https://img.shields.io/badge/collaborators-1-yellow?style=plastic" /> <img src="https://img.shields.io/badge/admin-1-orange?style=plastic" />
 
