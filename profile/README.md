@@ -10,17 +10,27 @@ Ghost Hackers (GH) is an organization started on [GitHub](https://github.com/) f
 ## <p align="center">Can others use the code?</p>
 No. Currently all code being developed by GH and it's members will be `private` and not for `public use`.
 
+## <p align="center">Are we looking for triage members?</p>
+No. Currently we are not.
+
+However, triage members who are accepted into the organization can play a huge part in keeping the repositories healthy, as they need to be triaged[^1] regularly. Anyone can help triage. No experience is necessary!
+
+If you’re looking for a way to get involved with the Ground Zero project and don’t know where to start, triage is a great place to begin as it gives you a deeper look into current issues. The triage team(s) are a group of people with a particular role of making sure triage is done consistently across the organization's repo's[^2]. 
+
+<details>
+<summary>Different types of triages:</summary>
+
+- Regular self triage sessions done by members on their own time
+- Focused triage sessions on a specific board, label or feature
+
+</details>
+
 ## <p align="center">Are collaborators welcome?</p>
 No. Currently we are not accepting outside help. If help is needed we will request it to those we deem trustworthy and knowledgable about our needs.
 
-<details align="center">
-  <summary>Updates to README.md</summary>
-  <p>
-    
-    Updates to this file will be made as necessary, as well as any improvements.
-      
-  </p>
-</details>
+[^1]: Triage is the practice of reviewing existing issues and pull requests to make sure they’re relevant, actionable, and have all the information they need.
+[^2]: Repo is short for repository.
+
 <!--
 
 **Here are some ideas to get you started:**
