@@ -1,6 +1,6 @@
 <picture align="center"><img src="/profile/40624.jpg" style="max-width: 100%;" C/></picture>
 
-<img src="https://img.shields.io/badge/repos-4-blue?style=plastic" /> <img src="https://img.shields.io/badge/admin-1-red?style=plastic" /> <img src="https://img.shields.io/badge/maintainers-0-orange?style=plastic" /> <img src="https://img.shields.io/badge/collaborators-0-yellow?style=plastic" /> <img src="https://img.shields.io/badge/triage-0-green?style=plastic" />
+<img src="https://img.shields.io/badge/repos-4-blue?style=plastic" /> <img src="https://img.shields.io/badge/admin-1-red?style=plastic" /> <img src="https://img.shields.io/badge/maintainers-0-orange?style=plastic" /> <img src="https://img.shields.io/badge/collaborators-1-yellow?style=plastic" /> <img src="https://img.shields.io/badge/triage-0-green?style=plastic" />
 [![Greetings](https://github.com/Ghost-Hackers/Ground-Zero/actions/workflows/greetings.yml/badge.svg)](https://github.com/Ghost-Hackers/Ground-Zero/actions/workflows/greetings.yml)
 
 # <p align="center"> About the Organization </p>
