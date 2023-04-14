@@ -1,4 +1,4 @@
-<picture align="center"><img src="/profile/40624.jpg" style="max-width: 100%;" /></picture>
+<picture><img src="/profile/40624.jpg" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto; width: 50%;" /></picture>
 
 <img src="https://img.shields.io/badge/repos-4-blue?style=plastic" /> <img src="https://img.shields.io/badge/admin-1-red?style=plastic" /> <img src="https://img.shields.io/badge/maintainers-0-orange?style=plastic" /> <img src="https://img.shields.io/badge/collaborators-1-yellow?style=plastic" /> <img src="https://img.shields.io/badge/triage-0-green?style=plastic" />
 [![Greetings](https://github.com/Ghost-Hackers/Ground-Zero/actions/workflows/greetings.yml/badge.svg)](https://github.com/Ghost-Hackers/Ground-Zero/actions/workflows/greetings.yml)
@@ -14,7 +14,7 @@ No. Currently all code being developed by G.H. and it's members will remain `pri
 ## <p align="center">Do we have any active projects?</p>
 Yes. Currently we are working on a project called [Ground Zero](https://github.com/Ghost-Hackers/ground-zero) which is a project to create a company website for [Ghost](https://github.com/Ghostridr)'s future company that he is currently working on and wishest to start. The website will become an interactive website that will allow users to interact with the company and it's amenities and entertainment services. The site will be an integral part of the company and will be used to promote the company as well as to manage the company's services and staff.
 
-<picture align="center"><img src="/img/GZ-Construction.gif" style="max-width: 80%;" /></picture>
+<img src="/img/GZ-Construction.gif" style="max-width: 80%; display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
 ## <p align="center">Are we looking for triage members?</p>
 No. Currently we are not. We are still a small group. 
