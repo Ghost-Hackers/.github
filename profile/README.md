@@ -14,7 +14,7 @@ No. Currently all code being developed by G.H. and it's members will remain `pri
 ## <p align="center">Do we have any active projects?</p>
 Yes. Currently we are working on a project called [Ground Zero](https://github.com/Ghost-Hackers/ground-zero) which is a project to create a company website for [Ghost](https://github.com/Ghostridr)'s future company that he is currently working on and wishest to start. The website will become an interactive website that will allow users to interact with the company and it's amenities and entertainment services. The site will be an integral part of the company and will be used to promote the company as well as to manage the company's services and staff.
 
-<picture align="center"><img src="/img/GZ-Construction.gif" style="max-width: 80%;" /></picture>
+<picture align="center"><img src="/img/GZ-Construction.gif" style="max-width: 100%;" /></picture>
 
 ## <p align="center">Are we looking for triage members?</p>
 No. Currently we are not. We are still a small group. 
