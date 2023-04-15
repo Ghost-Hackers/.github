@@ -8,12 +8,12 @@
 ### <p align="center">Hi there! 👋🏻</p>
 
 Ghost Hackers (G.H.) is an organization on [GitHub](https://github.com/) that was created for the purpose of developing unique projects using various programming languages. So far we have completed one project which has now been archived.
-<!--
+
 ### <p align="center">Contact US 📭</p>
-You are welcome to contact us if you wish to become a member of the organization and collaborate with us at the provided email below. Please be advised that the checking of this email may be limited to a few times a week and any attempts at contacting us for anything outside of the email's purpose will be ignored.
+You are welcome to contact us if you wish or if you want to become a member of the organization and collaborate with us at the provided email below. If you are seeking to join us then we will get back with you if we are interested in expanding our team(s) at our earliest convenience. Please be advised that the checking of this email may be limited to a few times a week and any attempts at contacting us for anything outside of the email's purpose will be ignored.
 
 ## [📧📬](mailto:ghost-hackers@outlook.com)
--->
+
 ### <p align="center">Can others use our code?</p>
 No. Currently all code being developed by G.H. and it's members will remain `private` and therefore not for `public` use. However, you can visit our archived projects by going to the [Ghost Hacker's Archive](https://github.com/Ghost-Hackers-Archive) to view any completed past projects that are available to the public.
 
