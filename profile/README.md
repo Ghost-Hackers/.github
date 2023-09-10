@@ -1,6 +1,6 @@
 <picture align="center"><img src="/profile/40624.jpg" width="100%" /></picture>
 
-<img src="https://img.shields.io/badge/repos-5-blue?style=plastic" /> <img src="https://img.shields.io/badge/admin-1-red?style=plastic" /> <img src="https://img.shields.io/badge/maintainers-0-orange?style=plastic" /> <img src="https://img.shields.io/badge/collaborators-1-yellow?style=plastic" /> <img src="https://img.shields.io/badge/triage-0-green?style=plastic" />
+<img src="https://img.shields.io/badge/repos-6-blue?style=plastic" /> <img src="https://img.shields.io/badge/admin-1-red?style=plastic" /> <img src="https://img.shields.io/badge/maintainers-0-orange?style=plastic" /> <img src="https://img.shields.io/badge/collaborators-1-yellow?style=plastic" /> <img src="https://img.shields.io/badge/triage-0-green?style=plastic" />
 
 <img src="https://img.shields.io/badge/projects-2-blue?style=plastic" /> <img src="https://img.shields.io/badge/completed-1-green?style=plastic" /> <img src="https://img.shields.io/badge/archived-1-orange?style=plastic" />
 
