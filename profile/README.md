@@ -9,16 +9,15 @@
 
 Ghost Hackers (G.H.) is an organization on [GitHub](https://github.com/) that was created for the purpose of developing unique projects using various programming languages. So far we have completed one project which has now been archived.
 
-### <p align="center">Contact US 📭</p>
-You are welcome to contact us if you wish or if you want to become a member of the organization and collaborate with us at the provided email below. If you are seeking to join us then we will get back with you if we are interested in expanding our team(s) at our earliest convenience. Please be advised that the checking of this email may be limited to a few times a week and any attempts at contacting us for anything outside of the email's purpose will be ignored.
-
-## [📧📬](mailto:ghost-hackers@outlook.com)
-
 ### <p align="center">Can others use our code?</p>
-No. Currently all code being developed by G.H. and it's members will remain `private` and therefore not for `public` use. However, you can visit our archived projects by going to the [Ghost Hacker's Archive](https://github.com/Ghost-Hackers-Archive) to view any completed past projects that are available to the public.
+No. Currently all code being developed by Ghost Hackers and it's members will remain `private` and therefore not for `public` use. However, you can visit our archived projects by going to the [Ghost Hacker's Archive](https://github.com/Ghost-Hackers-Archive) to view any completed past projects that are available to the public.
 
 ### <p align="center">Do we have any active projects?</p>
 Yes. Currently we are working on a project called [Ground Zero](https://github.com/Ghost-Hackers/ground-zero) which is a project to create a company website for [Ghost](https://github.com/Ghostridr)'s future company that he is currently working on and wishest to start. The website will become an interactive website that will allow users to interact with the company and it's amenities and entertainment services. The site will be an integral part of the company and will be used to promote the company as well as to manage the company's services and staff.
+
+Another of our big projects that we will be working on building is an AI program called [JARVIS](https://github.com/Ghost-Hackers/jarvis) which stands for "Just Another Rather Very Intelligent System". `The name is only temporary until a fitting name has been chosen.` 
+
+This program will be built in `CPP` and will be used to assist us in all future endeavors as we grow and continue moving forward. The AI is not meant to replace anyone, but to help us in our day-to-day tasks and increase our performance and productivity while helping us to enjoy what we do at Ground Zero. Ground Zero patrons will also be able to interact with JARVIS as well, making it a fun and exciting experience for all to enjoy and benefit from.
 
 <picture align="center"><img src="/img/GZ-Construction.gif" width="100%" /></picture>
 
@@ -40,6 +39,11 @@ Currently we are not actively accepting outside help. If help is needed we will 
 
 [^1]: Triage is the practice of reviewing existing issues and pull requests to make sure they’re relevant, actionable, and have all the information they need.
 [^2]: Repo is short for repository.
+
+### <p align="center">Contact US 📭</p>
+You are welcome to contact us if you wish or if you want to become a member of the organization and collaborate with us at the provided email below. If you are seeking to join us then we will get back with you if we are interested in expanding our team(s) at our earliest convenience. Please be advised that the checking of this email may be limited to a few times a week and any attempts at contacting us for anything outside of the email's purpose will be ignored.
+
+## [📧📬 Ghost Hackers](mailto:ghost-hackers@outlook.com)
 
 <!-- TIPS TO REMEMBER
 
