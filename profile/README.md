@@ -40,17 +40,8 @@ Currently we are not actively accepting outside help. If help is needed we will 
 ## Summoning Spectral Connections
 Embark on a ghostly journey to reach the ethereal realm of Ghost Hackers. Should you desire to commune with us or seek to join our spectral order, extend your mystical correspondence to the designated spectral gateway below. The secrets of collaboration await those who dare to whisper across the spectral veil.
 
-<<<<<<< Updated upstream
-### <p align="center">Contact US 📭</p>
-You are welcome to contact us if you wish or if you want to become a member of the organization and collaborate with us at the provided email below. If you are seeking to join us then we will get back with you if we are interested in expanding our team(s) at our earliest convenience. Please be advised that the checking of this email may be limited to a few times a week and any attempts at contacting us for anything outside of the email's purpose will be ignored.
-
-## [📧📬 Ghost Hackers](mailto:ghost-hackers@outlook.com)
-
-<!-- TIPS TO REMEMBER
-=======
 #### 📭 Contacting the Spectral Nexus:
 You are cordially invited to reach out, whether to share ethereal knowledge or express a desire to join our spectral assembly. Your mystical missives can be sent to the enchanted email provided below. Know that your spectral intentions will be acknowledged, and if the spirits of collaboration align, we shall respond at our earliest convenience.
->>>>>>> Stashed changes
 
 #### 👉 Spectral Correspondence Guidelines:
 Take heed, for the ethereal inbox is not tended to daily; its gates swing ajar only a few times each week. If your purpose is to join our spectral ranks, rest assured that your spectral plea will be considered with due reverence. However, beware, as attempts to contact us for matters outside the purview of spectral collaboration shall be shrouded in the mists of neglect.
