@@ -1,4 +1,4 @@
-<picture align="center"><img src="/profile/40624.jpg" width="100%" /></picture>
+<picture align="center"><img src="/profile/Ghost Hackers Background.png" width="100%" /></picture>
 
 <img src="https://img.shields.io/badge/repos-6-blue?style=plastic" /> <img src="https://img.shields.io/badge/admin-1-red?style=plastic" /> <img src="https://img.shields.io/badge/maintainers-0-orange?style=plastic" /> <img src="https://img.shields.io/badge/collaborators-1-yellow?style=plastic" /> <img src="https://img.shields.io/badge/triage-0-green?style=plastic" />
 
@@ -37,21 +37,32 @@ If you’re looking to get involved with a project and don’t know where to sta
 ### <p align="center">Are collaborators welcome?</p>
 Currently we are not actively accepting outside help. If help is needed we will send a request in the form of an invite to those we deem trustworthy and knowledgable about our needs and goals. This does not mean that we do not wish to have you on the team, just that we don't feel we have a need for anyone more at this time.
 
-[^1]: Triage is the practice of reviewing existing issues and pull requests to make sure they’re relevant, actionable, and have all the information they need.
-[^2]: Repo is short for repository.
+## Summoning Spectral Connections
+Embark on a ghostly journey to reach the ethereal realm of Ghost Hackers. Should you desire to commune with us or seek to join our spectral order, extend your mystical correspondence to the designated spectral gateway below. The secrets of collaboration await those who dare to whisper across the spectral veil.
 
+<<<<<<< Updated upstream
 ### <p align="center">Contact US 📭</p>
 You are welcome to contact us if you wish or if you want to become a member of the organization and collaborate with us at the provided email below. If you are seeking to join us then we will get back with you if we are interested in expanding our team(s) at our earliest convenience. Please be advised that the checking of this email may be limited to a few times a week and any attempts at contacting us for anything outside of the email's purpose will be ignored.
 
 ## [📧📬 Ghost Hackers](mailto:ghost-hackers@outlook.com)
 
 <!-- TIPS TO REMEMBER
+=======
+#### 📭 Contacting the Spectral Nexus:
+You are cordially invited to reach out, whether to share ethereal knowledge or express a desire to join our spectral assembly. Your mystical missives can be sent to the enchanted email provided below. Know that your spectral intentions will be acknowledged, and if the spirits of collaboration align, we shall respond at our earliest convenience.
+>>>>>>> Stashed changes
 
-**Here are some ideas to get you started:**
+#### 👉 Spectral Correspondence Guidelines:
+Take heed, for the ethereal inbox is not tended to daily; its gates swing ajar only a few times each week. If your purpose is to join our spectral ranks, rest assured that your spectral plea will be considered with due reverence. However, beware, as attempts to contact us for matters outside the purview of spectral collaboration shall be shrouded in the mists of neglect.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In this spectral communion, let your intentions be clear and your messages be imbued with the essence of the supernatural.
+
+#### [📧📬 Ghost Hackers](mailto:ghost-hackers@outlook.com)
+
+<hr>
+*This document is a living document, and as such, it will continue to evolve as our spectral organization grows. We welcome your feedback and suggestions, so please feel free to share your thoughts with us. Thank you for your spectral presence, and we look forward to collaborating with you in the digital realms!* </br>
+</br>
+
+[^1]: Triage, a sacred ritual, involves the meticulous review of existing issues and pull requests, ensuring their spectral relevance, actionable nature, and possession of all the arcane information they require. In the cryptic realm of spectral endeavors, the ancient practice known as Triage beckons ethereal beings to partake in the mystical dance of reviewing issues and pull requests. Let the whispers of the spectral winds guide you, as you traverse through the digital shadows, ensuring that each fragment of code is not merely relevant but pulsating with the essence of spectral wisdom.
+
+[^2]: Behold the sacred repos, repositories known in the spectral tongue, are the crypts where the spectral codes find their dwelling, waiting to be summoned and brought to life. It is here, where the codes are woven into an ethereal tapestry, that Collaborators, spectral entities in harmonious alliance, unite their arcane forces to breathe life into the spectral projects that dance across the digital realms.
