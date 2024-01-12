@@ -7,7 +7,24 @@
 
 > # <p align="center">Ghost<sup> 👻 </sup>Hackers</br><sub>Conjuring Spectral Scripts for Ethereal Triumphs in the Digital Realm</sub></p>
 
-<!-- toc -->
+  * [🌐 Welcome](#%F0%9F%8C%90-welcome-to-the-haunting-realm-of-ghost-hackers)
+    + [🌌 Developing Code](#%F0%9F%8C%8C-spectral-scripts-for-enchanting-sorcery)
+    + [🧙‍♂️ Building Automation](#%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F-automation-alchemy)
+    + [💻 Rich Designs](#%F0%9F%92%BB-rich-designs-for-digital-ectoplasm)
+    + [🌐 Community of Hackers](#%F0%9F%8C%90-community-of-digital-phantoms)
+    + [🧙‍♀️ Hacker Collaboration](#%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F-ethereal-workshops-and-coding-spells)
+- [Active Projects](#ephemeral-glimpses-into-our-current-spectral-works)
+  * [🌐 Ground Zero](#%F0%9F%8C%90-project-veil-ground-zerohttpsgithubcomghost-hackersground-zero)
+  * [👻 JARVIS](#%F0%9F%91%BB-project-phantasm-jarvishttpsgithubcomghost-hackersjarvis)
+    + [🔮 Behind the Names](#%F0%9F%94%AE-behind-the-names-unveiling-the-mystical-origins)
+    + [🚀 The Vision Unveiled](#%F0%9F%9A%80-the-vision-unveiled-interaction-with-jarvis)
+  * [Ghost-Hackers Archive](#the-spectral-archive)
+  * [Code Sharing](#code-enigma-sharing-the-spectral-cipher)
+  * [Triage](#triage-conjurers-wanted-a-call-to-the-spectral-gatekeepers)
+  * [Collaboration](#invitation-to-the-spectral-realm-of-collaboration)
+- [Contact Us](#summoning-spectral-connections)
+  * [📭 Reaching Out](#%F0%9F%93%AD-contacting-the-spectral-nexus)
+  * [👉 Correspondence Guidelines:](#%F0%9F%91%89-spectral-correspondence-guidelines)
 
 > ## 🌐 Welcome to the haunting realm of Ghost Hackers!
 
@@ -48,21 +65,18 @@ Join Ghost Hackers, where the digital veil between the mundane and the spectral 
 
 ***<p align="center">`"Together, let's infuse the digital realm with a haunting blend of creativity and a dash of the supernatural!"`</p>***
 
-> # Do we have any active projects?
-Yes. Currently we are working on a few projects. One project is called [Ground Zero](https://github.com/Ghost-Hackers/ground-zero) which you can read more about below. We also have another project called [JARVIS](https://github.com/Ghost-Hackers/jarvis) which you can read more about below as well. Yes, I know: "We are very creative with our names." However, `the names are only temporary until a fitting name has been chosen.` And yes, I'm well aware it sounds like "Iron man" but that's not where the name came from. It's actually an acronym for "Just Another Rather Very Intelligent System". This program will be developed and used to assist us in all future endeavors as we grow and continue moving forward. The AI is not meant to replace anyone, but to help us in our day-to-day tasks and increase our performance and productivity while helping us to enjoy what we do at Ground Zero. Ground Zero patrons will also be able to interact with JARVIS as well, making it a fun and exciting experience for all to enjoy and benefit from. Or at least that's the plan. We'll see how it goes once we get to the point of implementing it into the website.
-
-> ## Ephemeral Glimpses into our Current Spectral Works
+> # Ephemeral Glimpses into our Current Spectral Works
 
 Indeed, the spectral currents within Ghost Hackers stir with activity, as we channel our energies into the intricate tapestry of ongoing projects. Allow your gaze to traverse the veiled realms as we share whispers of our ethereal endeavors.
 
 ![Ground Zero Banner](</img/Banner.png>) </br>
 
-### 🌐 Project Veil: [Ground Zero](https://github.com/Ghost-Hackers/ground-zero)
+> ## 🌐 Project Veil: [Ground Zero](https://github.com/Ghost-Hackers/ground-zero)
 Embark on an ethereal journey as we reveal the shadows of our most significant endeavors to [Ground Zero](https://github.com/Ghost-Hackers/ground-zero), a spectral creation in the making. The secrets of this project unfold like ancient scrolls, revealing the foundations of a company website dedicated to the enigmatic [Ghost](https://github.com/Ghostridr). Within its spectral confines, users shall be beckoned to engage with the company, explore its ethereal amenities, and immerse themselves in the realm of entertainment services. As the heart of our spectral sanctuary, this site transcends the ordinary, managing the arcane tapestry of our services and staff. This interactive website will transcend the ordinary
 
 <picture align="center"><img src="/img/GZ-Construction.gif" width="100%" /></picture>
 
-### 👻 Project Phantasm: [JARVIS](https://github.com/Ghost-Hackers/jarvis)
+> ## 👻 Project Phantasm: [JARVIS](https://github.com/Ghost-Hackers/jarvis)
 Venture further into the mist, and you'll encounter another formidable ethereal creation as it dances in the shadows – [JARVIS](https://github.com/Ghost-Hackers/jarvis), a manifestation of spectral intelligence oozing the `CPP` essence that it is comprised of. In our spectral language, JARVIS stands for "Just Another Rather Very Intelligent System." Shed the temporary names and delve into the mystical acronym, for this AI companion is destined to aid us in our spectral journey. It does not seek to replace, but rather, to join our spectral assembly, enhancing our daily tasks and elevating performance and productivity. Future patrons of Ground Zero shall be able to commune with JARVIS, adding a playful and mysterious dimension to their spectral experiences. We will continue to weave the ethereal fabric of this project, where the arcane whispers of code guide us to the manifestation of this spectral companion whilst we summon the arcane forces of creativity and automation to bring this project to life.
 
 ### 🔮 Behind the Names: Unveiling the Mystical Origins
@@ -110,13 +124,13 @@ Rest assured, esteemed spectral being, your presence is not dismissed but held i
 
 May the spectral energies guide us toward a future where our collaboration transcends the mundane and reaches new heights of ethereal triumphs. Until then, know that the spectral gates remain ajar, eagerly anticipating the day when our ethereal forces align in symphony.
 
-> ## Summoning Spectral Connections
+> # Summoning Spectral Connections
 Embark on a ghostly journey to reach the ethereal realm of Ghost Hackers. Should you desire to commune with us or seek to join our spectral order, extend your mystical correspondence to the designated spectral gateway below. The secrets of collaboration await those who dare to whisper across the spectral veil.
 
-### 📭 Contacting the Spectral Nexus:
+## 📭 Contacting the Spectral Nexus:
 You are cordially invited to reach out, whether to share ethereal knowledge or express a desire to join our spectral assembly. Your mystical missives can be sent to the enchanted email provided below. Know that your spectral intentions will be acknowledged, and if the spirits of collaboration align, we shall respond at our earliest convenience.
 
-### 👉 Spectral Correspondence Guidelines:
+## 👉 Spectral Correspondence Guidelines:
 Take heed, for the ethereal inbox is not tended to daily; its gates swing ajar only a few times each week. If your purpose is to join our spectral ranks, rest assured that your spectral plea will be considered with due reverence. However, beware, as attempts to contact us for matters outside the purview of spectral collaboration shall be shrouded in the mists of neglect.
 
 In this spectral communion, let your intentions be clear and your messages be imbued with the essence of the supernatural.
