@@ -159,7 +159,7 @@ In this spectral communion, let your intentions be clear and your messages be im
 
 *This document is a living document, and as such, it will continue to evolve as our spectral organization grows. We welcome your feedback and suggestions, so please feel free to share your thoughts with us. Thank you for your spectral presence, and we look forward to collaborating with you in the digital realms!* </br>
 </br>
-[Back to top](#welcome-to-the-haunting-realm-of-ghost-hackers)
+[Back to top](#table-of-contents)
 
 [^1]: Triage, a sacred ritual, involves the meticulous review of existing issues and pull requests, ensuring their spectral relevance, actionable nature, and possession of all the arcane information they require. In the cryptic realm of spectral endeavors, the ancient practice known as Triage beckons ethereal beings to partake in the mystical dance of reviewing issues and pull requests. Let the whispers of the spectral winds guide you, as you traverse through the digital shadows, ensuring that each fragment of code is not merely relevant but pulsating with the essence of spectral wisdom.
 
