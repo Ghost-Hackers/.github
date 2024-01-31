@@ -7,6 +7,8 @@
 
 > # <p align="center">Ghost<sup> 👻 </sup>Hackers</br><sub>Conjuring Spectral Scripts for Ethereal Triumphs in the Digital Realm</sub></p>
 
+> ## Table of Contents
+
   * [Welcome](#welcome-to-the-haunting-realm-of-ghost-hackers)
     + [Developing Code](#spectral-scripts-for-enchanting-sorcery)
     + [Building Automation](#automation-alchemy)
@@ -35,9 +37,11 @@ Embark on a hauntingly ingenious journey with us as we navigate the unseen curre
 In the ever-shifting landscape of digital creativity, Ghost Hackers emerges as a spectral beacon, illuminating the path to enchanting triumphs through the artistry of code. Our GitHub repository is not merely a collection of scripts; it's an arcane library where each line is imbued with the power to innovate and cast spells of efficiency upon the vast digital realms.
 
 ### Spectral Scripts for Enchanting Sorcery
+
 Step into our crypt of code, where each line resonates with a whispered incantation from beyond, gently beckoning you to explore the enchanting world of script crafting. In this ethereal sanctuary, Ghost Hackers meticulously curates a collection of spectral codes — an arcane symphony that transcends the ordinary, designed not merely to automate tasks, but to summon powerful creative shields and cast spells of unparalleled efficiency upon the vast expanses of digital realms. Each line, intricately woven, holds the potential to transform the mundane into the extraordinary, infusing the digital landscape with a touch of the supernatural.
 
 ### Automation Alchemy
+
 Ethereal enchantments echo within the arcane scripts of Ghost Hackers, transcending the mundane with a spectral touch, automating tasks with otherworldly precision. In the cryptic dance of code, we believe in the transformative power of automation — a force that not only liberates minds from the shackles of repetitive tasks but serves as a conduit for unleashing the boundless creativity within.
 
 In the mystical realms of Ghost Hackers, automation is more than a mere act; it's a sacred alchemy that empowers digital phantoms to traverse the ethereal landscape of innovation. As we liberate minds from the mundane, creative beings can immerse themselves in the artistry of script crafting, channeling their energies into the pursuit of ideas that transcend the ordinary.
@@ -45,6 +49,7 @@ In the mystical realms of Ghost Hackers, automation is more than a mere act; it'
 Step into the enigmatic realm of Ghost Hackers, where the ethereal symphony of automated scripts resonates with the whispers of innovation. Join us as we explore the limitless possibilities of automation, breaking free from the chains of routine and ushering in a new era of spectral creativity.
 
 ### Rich Designs for Digital Ectoplasm
+
 In the spectral tapestry of Ghost Hackers, our codes transcend mere functionality; they are a manifestation of aesthetic prowess, casting a spell of rich, spectral elegance upon the digital realms. Each line of code is not just a command but a brushstroke in the canvas of cyberspace, weaving an enchanting tale of visual splendor.
 
 Ghost Hackers reveres the artistry in code design, crafting scripts that resonate with a spectral elegance unseen in the mundane world. As you venture into the depths of our GitHub repositories, you'll witness a symphony of well-designed scripts — an ethereal ballet where every function and variable dances in harmony, creating a mesmerizing spectacle for those attuned to the spectral frequencies.
@@ -52,6 +57,7 @@ Ghost Hackers reveres the artistry in code design, crafting scripts that resonat
 Dive into the abyss of creativity within our repositories, where the digital ectoplasm of Ghost Hackers takes form. Join us in celebrating the marriage of functionality and aesthetics, as we continue to summon scripts that not only perform with precision but also enchant with their ethereal beauty.
 
 ### Community of Digital Phantoms
+
 Transcend beyond the ordinary into the spectral congregation of Ghost Hackers — an ethereal realm where digital phantoms unite with a shared purpose. Here, our community transcends the conventional boundaries of a repository; it's a sacred space where spectral beings commune, collaborate, and share their arcane wisdom.
 
 Ghost Hackers beckons you to join this spectral fellowship, to be more than just a coder or hacker but a part of a collective journey where creativity intertwines with the supernatural. Share your spectral codes, let your innovative spirit resonate with the whispers of fellow phantoms, and together, traverse the elusive line between the physical and digital realms.
@@ -59,6 +65,7 @@ Ghost Hackers beckons you to join this spectral fellowship, to be more than just
 In our spectral community, diversity is our strength, and collaboration is our magic. Whether you're a seasoned apparition or a newcomer to the digital ether, Ghost Hackers welcomes you to be a part of our spectral tapestry, where each member contributes to the enchantment that defines our shared purpose.
 
 ### Ethereal Workshops and Coding Spells
+
 Embark on a captivating journey and partake in our ethereal workshops and coding spells, where the Ghost Hackers community harmoniously collaborates to weave together innovative scripts, conjure up miraculous ideas, conduct captivating experiments in the dark arts of digital creativity, and bask in the enchanting glow of spectral elegance brought forth by automation.
 
 Join Ghost Hackers, where the digital veil between the mundane and the spectral is thin, and codes are crafted with the finesse of ghostly apparitions. Venture into our realm, where the digital veil delicately separates the commonplace from the spectral, and witness how our codes are meticulously crafted with the finesse of ghostly apparitions. Here, we invite you to join us in casting an ethereal presence upon the digital world, infusing it with a bewitching blend of creativity, automation, and a touch of the supernatural.
@@ -72,22 +79,27 @@ Indeed, the spectral currents within Ghost Hackers stir with activity, as we cha
 ![Ground Zero Banner](</img/Banner.png>) </br>
 
 > ## Project Veil: [Ground Zero](https://github.com/Ghost-Hackers/ground-zero)
+
 Embark on an ethereal journey as we reveal the shadows of our most significant endeavors to [Ground Zero](https://github.com/Ghost-Hackers/ground-zero), a spectral creation in the making. The secrets of this project unfold like ancient scrolls, revealing the foundations of a company website dedicated to the enigmatic [Ghost](https://github.com/Ghostridr). Within its spectral confines, users shall be beckoned to engage with the company, explore its ethereal amenities, and immerse themselves in the realm of entertainment services. As the heart of our spectral sanctuary, this site transcends the ordinary, managing the arcane tapestry of our services and staff. This interactive website will transcend the ordinary
 
 <picture align="center"><img src="/img/GZ-Construction.gif" width="100%" /></picture>
 
 > ## Project Phantasm: [JARVIS](https://github.com/Ghost-Hackers/jarvis)
+
 Venture further into the mist, and you'll encounter another formidable ethereal creation as it dances in the shadows – [JARVIS](https://github.com/Ghost-Hackers/jarvis), a manifestation of spectral intelligence oozing the `CPP` essence that it is comprised of. In our spectral language, JARVIS stands for "Just Another Rather Very Intelligent System." Shed the temporary names and delve into the mystical acronym, for this AI companion is destined to aid us in our spectral journey. It does not seek to replace, but rather, to join our spectral assembly, enhancing our daily tasks and elevating performance and productivity. Future patrons of Ground Zero shall be able to commune with JARVIS, adding a playful and mysterious dimension to their spectral experiences. We will continue to weave the ethereal fabric of this project, where the arcane whispers of code guide us to the manifestation of this spectral companion whilst we summon the arcane forces of creativity and automation to bring this project to life.
 
 ### Behind the Names: Unveiling the Mystical Origins
+
 Yes, our nomenclature may appear ordinary, yet know that these names are but transient whispers until a fitting designation emerges from the spectral mist. Embrace the ephemeral nature of these titles. Moreover, do not be deceived by the echoes of "Iron man," for the genesis of [JARVIS](https://github.com/Ghost-Hackers/jarvis) lies in the cryptic acronym, "Just Another Rather Very Intelligent System." Witness as this spectral program unfolds, designed to infuse enchantment into our spectral pursuits, guiding us as we revel in the joys of our spectral creation – [Ground Zero](https://github.com/Ghost-Hackers/ground-zero).
 
 ### The Vision Unveiled: Interaction with JARVIS
+
 [JARVIS](https://github.com/Ghost-Hackers/jarvis), the ethereal companion, shall not stand aloof but engage with Ground Zero patrons, creating an experience both enchanting and beneficial. A spectral liaison between the realms, designed to elevate the essence of what we do at [Ground Zero](https://github.com/Ghost-Hackers/ground-zero). The plan? A seamless integration into the spectral fabric of our website. As with all ethereal visions, we shall patiently unfold this plan and witness its manifestation.
 
 In the spectral symphony of our endeavors, these projects stand as testament to our commitment to spectral innovation. Stay attuned, for as the spectral winds of creativity guide us, new revelations shall emerge, and the spectral dance of creation shall continue.
 
 > ## The Spectral Archive
+
 Delve into the archives of our spectral endeavors by visiting the [Ghost Hacker's Archive](https://github.com/Ghost-Hackers-Archive). Unearth completed past projects, now available to the public, each holding a ghostly tale of innovation and creativity. Join us as we navigate the shadows, crafting a digital realm where the mundane meets the supernatural in a dance of creativity, automation, and a touch of the unknown. There, in the archives, you'll find a collection of spectral scripts, each imbued with the essence of spectral elegance, designed to enchant and elevate the digital landscape dating back to even before the founding of Ghost Hackers. 
 
 > ## Code Enigma: Sharing the Spectral Cipher
@@ -118,6 +130,7 @@ The `Triage Guild`, a congregation of spectral beings with a specific role, orch
 For those who yearn to join the spectral dance of repository maintenance, fear not the lack of experience. `Triage`, a noble pursuit accessible to all, beckons to those who harbor the willingness to embark on this enchanting journey. Though the current need may be scant, the spectral realm is ever-changing, and the call for new guardians may resonate in the future. If you feel the spectral winds beckoning you to join our spectral assembly, reach out to us, and we shall consider your spectral plea.
 
 > ## Invitation to the Spectral Realm of Collaboration
+
 As ethereal as the whispers of the wind, the gates of collaboration are not permanently sealed; rather, they sway gently, awaiting the opportune moment to open wider. At this juncture, we find ourselves not actively extending invitations to external entities, yet our spectral abode harbors a desire for the harmonious convergence of talents and energies.
 
 Rest assured, esteemed spectral being, your presence is not dismissed but held in anticipation. When the mystical currents of our projects call for additional companions, an otherworldly invitation in the form of a request will be extended. Those who embody both trustworthiness and knowledge aligned with our spectral needs and goals shall be welcomed into our spectral fold. Feel the warmth of our desire to have you join the collective, even if the current ethereal winds do not compel us to extend a formal invitation. Your essence is acknowledged, and as our spectral endeavors evolve, so too may the need for additional ethereal companions.
@@ -125,19 +138,22 @@ Rest assured, esteemed spectral being, your presence is not dismissed but held i
 May the spectral energies guide us toward a future where our collaboration transcends the mundane and reaches new heights of ethereal triumphs. Until then, know that the spectral gates remain ajar, eagerly anticipating the day when our ethereal forces align in symphony.
 
 > # Summoning Spectral Connections
+
 Embark on a ghostly journey to reach the ethereal realm of Ghost Hackers. Should you desire to commune with us or seek to join our spectral order, extend your mystical correspondence to the designated spectral gateway below. The secrets of collaboration await those who dare to whisper across the spectral veil.
 
 ## Contacting the Spectral Nexus:
+
 You are cordially invited to reach out, whether to share ethereal knowledge or express a desire to join our spectral assembly. Your mystical missives can be sent to the enchanted email provided below. Know that your spectral intentions will be acknowledged, and if the spirits of collaboration align, we shall respond at our earliest convenience.
 
 ## Spectral Correspondence Guidelines:
+
 Take heed, for the ethereal inbox is not tended to daily; its gates swing ajar only a few times each week. If your purpose is to join our spectral ranks, rest assured that your spectral plea will be considered with due reverence. However, beware, as attempts to contact us for matters outside the purview of spectral collaboration shall be shrouded in the mists of neglect.
 
 In this spectral communion, let your intentions be clear and your messages be imbued with the essence of the supernatural.
 
 #### [📬 Ghost Hackers](mailto:ghost-hackers@outlook.com)
 
-#### [📧 Apply to Ghost Hackers](mailto:ghost-hackers@outlook.com?subject=Collaborator%20Application&body=Hello%20Ghost%20Hackers%20Team,%0A%0AI%20hope%20this%20email%20finds%20you%20well.%20My%20name%20is%20%5BYour_Name%5D,%20and%20I%20am%20interested%20in%20collaborating%20with%20Ghost%20Hackers.%20Please%20find%20the%20details%20below:%0A%0APersonal%20Information:%0A-%20Name:%0A-%20GitHub%20Username:%0A-%20Location:%0A-%20Email:%0A%0ARole%20Preference:%0APlease%20choose%20one:%0A-%20%5B%20%5D%20Triage%0A-%20%5B%20%5D%20Collaborator%0A-%20%5B%20%5D%20Outside%20Collaborator%0A%0AExperience%20and%20Skills:%0A[Provide%20a%20brief%20description%20of%20your%20relevant%20experience%20and%20skills.]%0A%0AMotivation:%0A[Share%20why%20you%20want%20to%20collaborate%20with%20Ghost%20Hackers%20and%20what%20aspects%20of%20the%20project%20interest%20you.]%0A%0AAdditional%20Information:%0A[Include%20any%20additional%20information%20you'd%20like%20us%20to%20know.]%0A%0A------%0A%0ABy%20submitting%20this%20application,%20I%20agree%20to%20abide%20by%20Ghost%20Hackers'%20Code%20of%20Conduct%20located%20at:%0A%0Ahttps://github.com/Ghost-Hackers/.github/blob/main/CODE_OF_CONDUCT.md%0A%0A------%0A%0AThank%20you%20for%20considering%20my%20application.%20I%20look%20forward%20to%20the%20opportunity%20to%20collaborate%20with%20Ghost%20Hackers.%0A%0ABest%20regards,%0A%5BYour_Name%5D)
+#### [📧 Apply to Ghost Hackers](mailto:ghost-hackers@outlook.com?subject=Collaborator%20Application&body=Hello%20Ghost%20Hackers%20Team,%0A%0AI%20hope%20this%20email%20finds%20you%20well.%20My%20name%20is%20%5BYour_Name%5D,%20and%20I%20am%20interested%20in%20collaborating%20with%20Ghost%20Hackers.%0A%0APersonal%20Information:%0A-%20Name:%0A-%20GitHub%20Username:%0A-%20Location:%0A-%20Email:%0A%0ARole%20Preference:%0APlease%20choose%20one:%0A-%20%5B%20%5D%20Triage%0A-%20%5B%20%5D%20Collaborator%0A-%20%5B%20%5D%20Outside%20Collaborator%0A%0AExperience%20and%20Skills:%0A[Provide%20a%20brief%20description%20of%20your%20relevant%20experience%20and%20skills.]%0A%0AMotivation:%0A[Share%20why%20you%20want%20to%20collaborate%20with%20Ghost%20Hackers%20and%20what%20aspects%20of%20the%20project%20interest%20you.]%0A%0AAdditional%20Information:%0A[Include%20any%20additional%20information%20you'd%20like%20us%20to%20know.]%0A%0ABy%20submitting%20this%20application,%20I%20agree%20to%20abide%20by%20Ghost%20Hackers'%20Code%20of%20Conduct%20located%20at:%20https://github.com/Ghost-Hackers/.github.%0A%0AThank%20you%20for%20considering%20my%20application.%20I%20look%20forward%20to%20the%20opportunity%20to%20collaborate%20with%20Ghost%20Hackers.%0A%0ABest%20regards,%0A%5BYour_Name%5D)
 
 <hr>
 *This document is a living document, and as such, it will continue to evolve as our spectral organization grows. We welcome your feedback and suggestions, so please feel free to share your thoughts with us. Thank you for your spectral presence, and we look forward to collaborating with you in the digital realms!* </br>
