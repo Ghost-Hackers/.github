@@ -17,21 +17,21 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 > ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment include:
+### Examples of behavior that contributes to creating a positive environment include
 
-- [:white_check_mark:] Using welcoming and inclusive language
-- [:white_check_mark:] Respecting differing viewpoints and experiences
-- [:white_check_mark:] Gracefully accepting constructive criticism
-- [:white_check_mark:] Focusing on what is best for the community
-- [:white_check_mark:] Showing empathy towards other community members
+| :white_check_mark: | Using welcoming and inclusive language          |
+| :white_check_mark: | Respecting differing viewpoints and experiences |
+| :white_check_mark: | Gracefully accepting constructive criticism     |
+| :white_check_mark: | Focusing on what is best for the community      |
+| :white_check_mark: | Showing empathy towards other community members |
 
-Examples of unacceptable behavior by participants include:
+### Examples of unacceptable behavior by participants include
 
-- [:x:] The use of sexualized language or imagery and unwelcome sexual attention or advances
-- [:x:] Trolling, insulting/derogatory comments, and personal or political attacks
-- [:x:] Public or private harassment
-- [:x:] Publishing others' private information, such as a physical or electronic address, without explicit permission
-- [:x:] Conduct that could reasonably be considered inappropriate in a professional setting
+| :x: | The use of sexualized language or imagery and unwelcome sexual attention or advances                          |
+| :x: | Trolling, insulting/derogatory comments, and personal or political attacks                                    |
+| :x: | Public or private harassment                                                                                  |
+| :x: | Publishing others' private information, such as a physical or electronic address, without explicit permission |
+| :x: | Other conduct which could reasonably be considered inappropriate in a professional setting                    |
 
 > ## Our Responsibilities
 
