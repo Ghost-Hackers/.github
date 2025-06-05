@@ -2,13 +2,13 @@
   <img src="/profile/ghost_hackers_logo.png" width="100%" alt="Ghost Hackers Logo" />
 </div>
 
-> # <p align="center">[Contributing Guidelines](https://github.com/Ghost-Hackers/.github/blob/main/CONTRIBUTING.md)</p>
+> # <p align="center">[Contributing Guidelines](CONTRIBUTING)</p>
 
 <div align="justify">
 
   Thank you for considering contributing to the [Ghost Hackers](https://github.com/Ghost-Hackers) project! Whether it's reporting a bug, suggesting an enhancement, or actively contributing code, we appreciate your efforts in making this project better.
 
-  Before you start contributing, please take a moment to review our [Code of Conduct](https://github.com/Ghost-Hackers/.github/blob/main/CODE_OF_CONDUCT.md) to understand our expectations for respectful and inclusive participation.
+  Before you start contributing, please take a moment to review our [Code of Conduct](CODE_OF_CONDUCT) to understand our expectations for respectful and inclusive participation.
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <div align="justify">
 
-  By participating in this project, you affirm your commitment to our [Code of Conduct](https://github.com/Ghost-Hackers/.github/blob/main/CODE_OF_CONDUCT.md) and to upholding a culture of inclusivity, professionalism, and mutual respect. We are dedicated to providing a safe, harassment-free environment for all contributors, regardless of background or experience. Any form of discrimination, harassment, or exclusionary behavior will not be tolerated and may result in removal from the project.
+  By participating in this project, you affirm your commitment to our [Code of Conduct](CODE_OF_CONDUCT) and to upholding a culture of inclusivity, professionalism, and mutual respect. We are dedicated to providing a safe, harassment-free environment for all contributors, regardless of background or experience. Any form of discrimination, harassment, or exclusionary behavior will not be tolerated and may result in removal from the project.
 
 </div>
 

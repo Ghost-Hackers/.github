@@ -2,13 +2,13 @@
   <img src="/profile/ghost_hackers_logo.png" width="100%" alt="Ghost Hackers Logo" />
 </div>
 
-> # <p align="center">[Code of Conduct](https://github.com/Ghost-Hackers/.github/blob/main/CODE_OF_CONDUCT.md)</p>
+> # <p align="center">[Code of Conduct](CODE_OF_CONDUCT)</p>
 
 > ## Purpose & Commitment
 
 <div align="justify">
 
-  [Ghost Hackers](https://github.com/Ghost-Hackers) is committed to providing a welcoming, safe, and inclusive environment for everyone. This [Code of Conduct](https://github.com/Ghost-Hackers/.github/blob/main/CODE_OF_CONDUCT.md) outlines our expectations for all participants and the steps for reporting and resolving unacceptable behavior.
+  [Ghost Hackers](https://github.com/Ghost-Hackers) is committed to providing a welcoming, safe, and inclusive environment for everyone. This [Code of Conduct](CODE_OF_CONDUCT) outlines our expectations for all participants and the steps for reporting and resolving unacceptable behavior.
 
   We believe that diversity and inclusion are essential to our community's success, and we strive to create a space where everyone feels valued and respected.
 
@@ -40,7 +40,7 @@
 
 <div align="justify">
 
-  Unacceptable behaviors include harassment, intimidation, or discrimination in any form. This also covers the use of sexualized language or imagery, unwelcome sexual attention or advances, trolling, insulting or derogatory comments, and personal or political attacks. Public or private harassment, publishing others’ private information without explicit permission, and sustained disruption of discussions, meetings, or events are not tolerated. Retaliation against individuals who report [Code of Conduct](https://github.com/Ghost-Hackers/.github/blob/main/CODE_OF_CONDUCT.md) violations is strictly prohibited. Any conduct that could reasonably be considered inappropriate in a professional setting is also unacceptable.
+  Unacceptable behaviors include harassment, intimidation, or discrimination in any form. This also covers the use of sexualized language or imagery, unwelcome sexual attention or advances, trolling, insulting or derogatory comments, and personal or political attacks. Public or private harassment, publishing others’ private information without explicit permission, and sustained disruption of discussions, meetings, or events are not tolerated. Retaliation against individuals who report [Code of Conduct](CODE_OF_CONDUCT) violations is strictly prohibited. Any conduct that could reasonably be considered inappropriate in a professional setting is also unacceptable.
 
   We do not tolerate any form of hate speech, including but not limited to racism, sexism, homophobia, transphobia, ableism, or any other form of discrimination. Participants should be mindful of their language and behavior, ensuring that it is inclusive and respectful of all individuals.
 
@@ -69,7 +69,7 @@
 
 <div align="justify">
 
-  This [Code of Conduct](https://github.com/Ghost-Hackers/.github/blob/main/CODE_OF_CONDUCT.md) applies to all project spaces, including online platforms, public events, private communications, and any situation where an individual is representing [Ghost Hackers](https://github.com/Ghost-Hackers) or its community, both online and offline.
+  This [Code of Conduct](CODE_OF_CONDUCT) applies to all project spaces, including online platforms, public events, private communications, and any situation where an individual is representing [Ghost Hackers](https://github.com/Ghost-Hackers) or its community, both online and offline.
 
   It also applies to all participants, including contributors, maintainers, organizers, and community members.
 
@@ -112,7 +112,7 @@
 
 <div align="justify">
 
-  This [Code of Conduct](https://github.com/Ghost-Hackers/.github/blob/main/CODE_OF_CONDUCT.md) is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, and other open community guidelines.
+  This [Code of Conduct](CODE_OF_CONDUCT) is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, and other open community guidelines.
 
   It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). We encourage other communities to adopt similar codes of conduct to promote a positive and inclusive environment.
 
